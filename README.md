@@ -1,2 +1,2 @@
 # Generative-Adversarial-Networks-Coursera
-![](Coursera GANS.pdf)
+![](Certificate_GANS.pdf)
