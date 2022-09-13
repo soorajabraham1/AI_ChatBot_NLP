@@ -11,3 +11,4 @@ In this course, I :
 
 
 ![](Certificate_GANS.pdf)
+<img src="Certificate_GANS.pdf" alt="Alt text" title="Optional title">
