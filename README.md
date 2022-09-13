@@ -10,5 +10,5 @@ In this course, I :
 - Built conditional GANs capable of generating examples from determined categories
 
 
-![](Certificate_GANS.pdf)
-<img src="Certificate_GANS.pdf" alt="Alt text" title="Optional title">
+![Certificate_GANS](Certificate_GANS.pdf)
+
